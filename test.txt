@@ -1,0 +1,10 @@
+Как зовут главного героя бывшего полицейского,Pictures/O`Conor.bmp,Pictures/Toretto.bmp,Pictures/Houbs.bmp,Брайан О’Коннер,Доминик Торетто,Люк Хоббс,1
+В каком фильме команда тащила сейф на машинах,Pictures/FF5.bmp,Pictures/FF6.bmp,Pictures/FF4.bmp,Форсаж 5,Форсаж 6,Форсаж 4,1
+Какой актер сыграл агента Люка Хоббса,Pictures/Toretto.bmp,Pictures/Houbs.bmp,Pictures/Steyhem.bmp,Вин Дизель,Дуэйн Джонсон,Джейсон Стэтхэм,2
+Какой персонаж оказался жив в «Форсаже 9»,Pictures/Жизель.bmp,Pictures/O`Conor.bmp,Pictures/Han.bmp,Жизель,Брайан,Хан,3
+Какая машина была у Доменика в первом фильме,Pictures/Dodge Charger.bmp,Pictures/Mitsubishi Eclipse RS 2G .bmp,Pictures/Nissan Skyline GT-R .bmp,Dodge Charger,Mitsubishi Eclipse,Nissan Skyline ,1
+Какой фильм стал последним для Пола Уокера,Pictures/FF6.bmp,Pictures/FF7.bmp,Pictures/FF5.bmp,Форсаж 6,Форсаж 7,Форсаж 5,2
+Кто из героев погиб в 6-м фильме,Pictures/Han.bmp,Pictures/Жизель.bmp,Pictures/O`Conor.bmp,Хан,Жизель,Брайан,2
+Какой фильм стал первым где появился Хан,Pictures/FF TD.bmp,Pictures/FF4.bmp,Pictures/FF6.bmp,Форсаж Tokyo Drift,Форсаж 4,Форсаж 6,1
+Какой фильм стал первым без участия Пола Уокера,Pictures/FF7.bmp,Pictures/FFHS.bmp,Pictures/FF8.bmp,Форсаж 7,Хоббс и Шоу,Форсаж 8,3
+Фильм который сняли в Японии,Pictures/FF4.bmp,Pictures/FFHS.bmp,Pictures/FF TD.bmp,Форсаж 4,Хоббс и Шоу,Форсаж Tokyo Drift,3
